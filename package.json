@@ -10,6 +10,6 @@
   "license": "",
   "dependencies": {
     "express": "^4.10.6",
-    "pg": "^4.1.1"
+    "node-mysql": "^0.4.1"
   }
 }
